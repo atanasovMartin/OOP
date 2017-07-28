@@ -1,0 +1,5 @@
+c:\users\jaclyalex\documents\visual studio 2017\Projects\IteratorsComparators\IteratorsComparators\bin\Debug\IteratorsComparators.exe.config
+c:\users\jaclyalex\documents\visual studio 2017\Projects\IteratorsComparators\IteratorsComparators\bin\Debug\IteratorsComparators.exe
+c:\users\jaclyalex\documents\visual studio 2017\Projects\IteratorsComparators\IteratorsComparators\bin\Debug\IteratorsComparators.pdb
+c:\users\jaclyalex\documents\visual studio 2017\Projects\IteratorsComparators\IteratorsComparators\obj\Debug\IteratorsComparators.exe
+c:\users\jaclyalex\documents\visual studio 2017\Projects\IteratorsComparators\IteratorsComparators\obj\Debug\IteratorsComparators.pdb
